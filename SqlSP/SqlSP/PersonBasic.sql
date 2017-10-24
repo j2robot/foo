@@ -1,3 +1,3 @@
 ﻿SELECT *
 FROM Person.Address
-WHERE city IN ('Portland','Monroe')
+WHERE city IN ('Portland','Monroe','Chicago')
